@@ -1,0 +1,7 @@
+Tensorflow
+numpy
+matplotlib
+os
+time 
+cv2
+Json
